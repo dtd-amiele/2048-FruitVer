@@ -1,0 +1,17 @@
+                          
+// Fruits
+BITMAP,None,None.png
+BITMAP,Cherry,Cherry.png                              
+BITMAP,Gooseberry,Gooseberry.png
+BITMAP,Blueberry,Blueberry.png
+BITMAP,Pomegranate,Pomegranate.png
+BITMAP,Apricot,Apricot.png
+BITMAP,Raspberry,Raspberry.png
+BITMAP,Blackberry,Blackberry.png
+BITMAP,Strawberry,Strawberry.png
+BITMAP,Currant,Currant.png
+BITMAP,Apple,Apple.png
+BITMAP,Orange,Orange.png
+BITMAP,Lemon,Lemon.png
+BITMAP,Melon,Melon.png
+
